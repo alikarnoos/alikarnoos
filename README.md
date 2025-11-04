@@ -13,13 +13,13 @@ I focus on clean code, problem-solving, and creating practical systems that solv
 ### ✅ Frontend
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript   
 - Bootstrap  
 - jQuery  
 
 ### ✅ Backend
-- PHP (Native & MVC)  
-- MySQL / MariaDB  
+- PHP  
+- SQL 
 - REST APIs  
 
 ### ✅ Tools
